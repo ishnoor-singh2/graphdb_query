@@ -1,0 +1,26 @@
+{
+    "neo4j": {
+        "url": "neo4j+s://cf1b9b39.databases.neo4j.io",
+        "username": "neo4j",
+        "password": "vRDqUrdllXu6SkFA8vtxBk1bppbYHA-NFZc1mhjtgxY"
+    },
+    "llm_azure": {
+        "deployment_name": "gpt35turbo16k",
+        "openai_api_base": "https://openaiapiaz.openai.azure.com/",
+        "openai_api_version": "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",
+        "temperature": 0
+    },
+    "llm_openai": {
+        "model_name": "gpt-3.5-turbo-16k",
+        "openai_api_key":"removing key//ENTER  KEY HERE// PLEASE LET ME KNOW FOR THE KEY",
+        "temperature":0
+
+    },
+    "streamlit": {
+        "theme":"dark"
+    }
+
+    
+}
+
+
